@@ -1,0 +1,71 @@
+# Meeting notes
+
+Location: Jena
+
+# Introduction
+
+Quick round: What I am using Imswitch for
+- Jonathan, Christian Eggeling 
+  - Methods: STED/RESOLFT, MINFLUX, Automation
+  - Possibility: Automation of MINFLUX?
+- Matteo Methods: 
+  - Non-linear microscopy, laser scanning (ScopeFoundry)
+  - Possibilities: integrate ScopeFoundry https://www.scopefoundry.org/
+- Jacopo:
+  - iSCAT, eventually embedded
+
+
+Brief recap of conference
+- sustainability
+- AI modules 
+- smart microscopy
+- automation
+
+## Topics
+
+- napari Hackathon
+- Future of ImSwitch
+- Major goals
+- Election of a representative
+- Funding sources
+- Advertising it 
+- Starting a code of conduct 
+- Deciding on some roadmap
+- 3 major goals for the next year 
+
+
+Ideas:
+- Contact OME people and perhaps add ImSwitch to their organisation?
+- Integrate ImSwitch into Omero Server for quick displaying? (Jacopo)
+
+- Review how ImageZoo is organized 
+
+Goals:
+Electing a representative
+More User Adaption
+Advertisment
+Go to conference
+Organise Workshops => Making more andemic at IPHT (Benedict, Jacopo)
+Introduction into ImSwitch
+Hands-on Session
+Regular meetings
+Funding (Benedict)
+Full-time staff to organize the programming
+Finding funding agency
+Funding possibilities 
+Contact loic Royer 
+Contacting Andrea Bassi
+Contacting Jürgen => LPI-related pitch
+Formulating a Masterthesis topic for the IT department 
+Better integration of OME:
+Metadata for better reproducibility 
+Better smart microscopy integration
+@wei? 
+Reuse existing code 
+Making it more modular 
+People:
+Christian Eggeling
+Rainer Heintzmann
+Illaria Testa
+????:
+Andrea Bassi 
