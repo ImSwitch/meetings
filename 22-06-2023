@@ -1,0 +1,47 @@
+# ImSwitch Meeting Notes
+
+
+## Licenses
+
+- MIT license in order to allow commercialisation
+- Right now we have GPLv3
+- Who is holding ownership?
+- Contact Prof in Illmenau to discuss the issue with different licenses
+- Can we simply use MIT in GPLv3?
+- do we need to ask the core developers/contributors?
+- Contact IPHT and individual
+
+
+## Hackathon
+
+- Hybrid to push modular open-source hard and software
+-  https://openuc2.com/2023/06/08/gosh-hackathon-14-15-july/
+
+## Exectuable / Installer
+
+- Current ideas are tracked here: https://github.com/beniroquai/ImSwitchInstaller/
+- Idea: Have `conda constructor` and pip install the latest version of the github version
+
+# Git Merging
+
+- Please all merge your changes into the main branch
+- File a pull request in the `Dev` branch
+- interactive rebase
+- do small chunks
+- Brutal alternative: PUll main and copy individual files
+
+
+# Experiments
+
+- Create a widget that stores all the metadata for an experiment
+- Nature method publication that create the necessary metadata to represent an experiment
+- ZARR file format: Allows Filestreaming, compression, integrated into Napari, independent from HDF5
+-> https://www.biorxiv.org/content/10.1101/2023.02.17.528834v1
+- We would need a fileformat to add metadata
+-
+
+# Funding
+- CZS
+- CZI
+- Photonhub
+- 
